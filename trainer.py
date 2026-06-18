@@ -5,7 +5,7 @@ import torch
 import torch.nn as nn
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import DataLoader
-
+# import
 import dist
 from models import VAR, VQVAE, VectorQuantizer2
 from utils.amp_sc import AmpOptimizer
