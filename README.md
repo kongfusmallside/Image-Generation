@@ -1,3 +1,3 @@
-# enhanced VAR
+# Enhanced VAR
 IMVFX group 13
 
